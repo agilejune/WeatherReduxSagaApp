@@ -1,0 +1,4475 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Weather /> should match the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "paddingVertical": 20,
+    }
+  }
+>
+  <View
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "flex": 1,
+        "marginTop": 40,
+      }
+    }
+    testID="weatherData"
+  >
+    <View
+      style={
+        Object {
+          "paddingBottom": 8,
+          "paddingHorizontal": 12,
+          "paddingTop": 8,
+        }
+      }
+      testID="dataList"
+    >
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            00:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.04
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            267.95
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            03:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.59
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            269.62
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            06:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            272.04
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.69
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            09:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.59
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            271.55
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              moderate rain
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            12:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            276.61
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            273.37
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              moderate rain
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            15:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            280.09
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            276.55
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light rain
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            18:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            278.72
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            274.61
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            21:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            277.69
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            273.15
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light rain
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            00:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            275.13
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            270.08
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            03:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.35
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            269.89
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            06:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            273.64
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            270.01
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            09:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.52
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            271.25
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            12:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            276
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            273.54
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            15:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.14
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            274.14
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            18:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            272.91
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            272.91
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            21:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.98
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            269.56
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            00:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            270.86
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.92
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            03:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            270.81
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.81
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            06:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            270.7
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.57
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            09:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            273.14
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            271.55
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            12:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.4
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            272.9
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            15:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.04
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            271.74
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            18:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            273.73
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            269.5
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            21:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.36
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.06
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            00:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.26
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.32
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            03:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            272.48
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.99
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            06:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            273.1
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.62
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            09:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.21
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.77
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            12:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.73
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            269.68
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            15:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            273.64
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            270.42
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            18:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            270.28
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            270.28
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            21:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            269.94
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            266.28
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              clear sky
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            00:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            269.1
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            264.54
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              scattered clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            03:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            268.16
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            263.6
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              broken clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            06:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            268.87
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            266.02
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            09:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.3
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            267.13
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            12:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            274.36
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            274.36
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            15:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.47
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            271.47
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            18:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            270.26
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            267.4
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              overcast clouds
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "borderColor": "#17475B",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "height": 143,
+            "marginBottom": 44,
+            "padding": 21,
+            "width": 325,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 7,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            2021-12-08
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#F3997B",
+                "fontFamily": "Roboto",
+                "fontSize": 12,
+              }
+            }
+          >
+            21:00:00
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 60,
+              "width": 298,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            temperature: 
+            271.81
+             K
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#114358",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            feels like temperature: 
+            268.97
+             K
+          </Text>
+        </View>
+        <View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#E6F4F1",
+                "borderRadius": 11,
+                "height": 21,
+                "justifyContent": "center",
+                "width": 89,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#114258",
+                  "fontFamily": "Roboto",
+                  "fontSize": 10,
+                  "letterSpacing": 0,
+                }
+              }
+            >
+              light snow
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

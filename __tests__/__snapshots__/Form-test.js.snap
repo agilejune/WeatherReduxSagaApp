@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> should match the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "paddingTop": 47,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 47,
+        "left": 0,
+        "top": 0,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#F3997B",
+          "fontFamily": "Nunito-Black",
+          "fontSize": 30,
+          "letterSpacing": 0,
+          "opacity": 1,
+          "textAlign": "center",
+        }
+      }
+    >
+      Hello Sunshine!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginBottom": 30,
+        "marginTop": 15,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#17475B",
+          "fontFamily": "Nunito-Black",
+          "fontSize": 30,
+          "letterSpacing": 0,
+          "opacity": 1,
+          "textAlign": "center",
+        }
+      }
+    >
+      Can you please tell
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#17475B",
+          "fontFamily": "Nunito-Black",
+          "fontSize": 30,
+          "letterSpacing": 0,
+          "opacity": 1,
+          "textAlign": "center",
+        }
+      }
+    >
+      me the weather
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#17475B",
+          "fontFamily": "Nunito-Black",
+          "fontSize": 30,
+          "letterSpacing": 0,
+          "opacity": 1,
+          "textAlign": "center",
+        }
+      }
+    >
+      in Germany?
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#114358",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "marginBottom": 14,
+        }
+      }
+    >
+      Please enter a city
+    </Text>
+    <TextInput
+      onChangeText={[Function]}
+      style={
+        Object {
+          "borderColor": "#17475B",
+          "borderRadius": 1.5,
+          "borderWidth": 2,
+          "color": "#17475B",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "height": 45,
+          "marginBottom": 25,
+          "textAlign": "center",
+          "width": 234,
+        }
+      }
+      testID="input"
+      value=""
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        nativeID="animatedComponent"
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#F3997B",
+            "borderRadius": 3,
+            "elevation": 5,
+            "height": 40,
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 160,
+          }
+        }
+        testID="submit"
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontFamily": "Roboto",
+              "fontSize": 12,
+              "textAlign": "center",
+            }
+          }
+        >
+          Have a look
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
